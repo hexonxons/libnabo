@@ -1,3 +1,9 @@
+libnabo (1.0.7) focal; urgency=low
+
+  * Build 1.0.7 for focal
+
+ -- Alexander Rozhdestvenskii <hexonxons@gmail.com>  Mon, 16 Nov 2020 14:07:00 +0300
+
 libnabo (1.0.4) precise; urgency=low
 
   * Latest upstream
